@@ -44,7 +44,7 @@
   font-weight: 800;
 }
 
-.qr p {
+.qr_contain p {
   padding: 21px;
   font-size: 15px;
   color: hsl(220, 15%, 55%);
