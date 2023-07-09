@@ -16,7 +16,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io) and ask questions in the **#help** channel.
+Want some support on the challenge? [Join our Slack community] and ask questions in the **#help** channel.
 
 ## Where to find every think in this coad
 
@@ -24,7 +24,7 @@ Your task is QR coad and than you build this is projact task and bhind you 'desi
 
 The designs are JPGs and than given this both 'images' than use the HTML this images and tha structure design and used the top images in QR coad.
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://github.com/kazimalaleem).
+If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member]([https://github.com/kazimalaleem](https://github.com/kazimalaleem/qr_code_component)).
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
@@ -45,9 +45,9 @@ Feel free to used and than click this wedside(https://www.frontendmentor.io/chal
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts your many project:
 
-- [GitHub Pages](https://github.com/kazimalaleem)
+- [GitHub Pages]([https://github.com/kazimalaleem](https://github.com/kazimalaleem/qr_code_component))
 - [Netlify](https://www.netlify.com/)
-- [linkdin] (https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- [linkdin] ([https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit](https://www.linkedin.com/in/mohammed-kazim-422054263/))
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
@@ -70,7 +70,6 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 There are multiple places you can share your solution:
 
 1. Sharing my problem
-2. Than 
 
 ## Got feedback for us?
 
