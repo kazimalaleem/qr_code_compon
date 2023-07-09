@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.qr_cord {
+  font-family: sans-serif;
+  background: hsl(221, 74%, 89%);
+
+  align-items: center;
+  display: flex;
+
+  min-height: 100vh;
+}
+
+.qr {
+  margin: 0 auto;
+  width: 360px;
+}
+
+
+
+.qr_card {
+  margin: 01em;
+  text-align: center;
+  border-radius: 13px;
+  padding: 17px;
+  background: rgb(255, 255, 255);
+}
+
+.qr_banner {
+  max-width: 100%;
+  border-radius: 13px;
+}
+
+.qr_text {
+  color: hsl(218, 44%, 22%);
+  padding-top: 24px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+p {
+  padding: 21px;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+}
